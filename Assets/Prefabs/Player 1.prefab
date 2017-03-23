@@ -2154,7 +2154,7 @@ Transform:
   m_GameObject: {fileID: 1111976282562288}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.3598213, y: 7.804711e-17, z: -10.544789}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children:
   - {fileID: 4440614729881346}
   - {fileID: 4668122969302588}
@@ -2662,7 +2662,7 @@ MonoBehaviour:
   m_MoveSpeedMultiplier: 1
   m_AnimSpeedMultiplier: 1
   m_GroundCheckDistance: 0.1
-  speed: 8
+  speed: 40
 --- !u!114 &114534345859898450
 MonoBehaviour:
   m_ObjectHideFlags: 1
